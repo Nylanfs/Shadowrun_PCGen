@@ -1,0 +1,43 @@
+CAMPAIGN:Shadowrun 5th Edition
+# Note: Game mode must be a match for the game mode folder name to ensure the right gamemode gets loaded when using the basic source loading screen
+GAMEMODE:Shadowrun_5e
+RANK:1
+GENRE:Sci-Fi
+BOOKTYPE:Core
+PUBNAMELONG:Catalyst Game Labs, LLC
+PUBNAMESHORT:CGL
+PUBNAMEWEB:http://www.catalystgamelabs.com/
+SOURCELONG:Shadowrun 5th Edition
+SOURCESHORT:SR5
+SOURCEWEB:http://www.shadowruntabletop.com/
+SOURCEDATE:2013-10
+ISOGL:NO
+ISLICENSED:NO
+INFOTEXT:This dataset uses trademarks and/or copyrights owned by The Topps Company, INC. in the United States and/or other countries &/or InMediaRes Productions, LLC. Any use of The Topps Company's or InMediaRes Productions's copyrighted material or trademarks anywhere on this web site and its files should not be viewed as a challenge to those copyrights or trademarks.
+COPYRIGHT:Shadowrun, Fifth Edition Core Rulebook Copyright 2013 The Topps Company, Inc.
+
+COVER:sr5_cover.jpg
+LOGO:topps-logo.png
+LOGO:cgl-logo.gif
+URL:WEBSITE|http://www.shadowruntabletop.com|Visit the Catalyst Shadowrun website!
+URL:WEBSITE|http://shop.catalystgamelabs.com|Shop Catalyst products!
+
+#ABILITY:my_abilities.lst
+#ABILITYCATEGORY:my_ability_categories.lst
+#ARMORPROF:my_armorprofs.lst
+#BIOSET:my_biosettings.lst
+#CLASS:my_classes.lst
+#COMPANIONMOD:my_companionmods.lst
+#DEITY:my_deities.lst
+#DOMAIN:my_domains.lst
+#EQUIPMENT:my_equipment.lst
+#EQUIPMOD:my_equipmods.lst
+#FEAT:my_feats.lst
+#KIT:my_kits.lst
+#LANGUAGE:my_languages.lst
+RACE:sr5_races.lst
+#SHIELDPROF:my_shieldprofs.lst
+#SKILL:my_skills.lst
+#SPELL:my_spells.lst
+#TEMPLATE:my_templates.lst
+#WEAPONPROF:my_weaponprofs.lst
